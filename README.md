@@ -52,6 +52,6 @@ Data in the table is from June, 2024
 
 ## Conclusion
 
-Given Earth2's current market valuation compared to its primary competitors, Sandbox and Decentraland, both of which are Ethereum-based platforms, the ESS token shows promising potential for significant appreciation. This analysis offers a strategic advantage by identifying optimal entry points for investment and harnessing the platform's growth opportunities effectively.
+Given Earth2's current market valuation compared to its primary competitors, Sandbox and Decentraland, the ESS token shows promising potential for significant appreciation. This analysis offers a strategic advantage by identifying optimal entry points for investment and harnessing the platform's growth opportunities effectively.
 
 The Earth 2 Analysis Dashboard provides investors with invaluable data-driven insights. Leveraging advanced analytics and visualization tools empowers stakeholders to make informed decisions, optimizing their investment strategies for maximizing returns.
