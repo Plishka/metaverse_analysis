@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Earth2 is a 1:1 scale virtual representation of the Earth, where users can hold, trade, and own digital assets. As the largest Virtual Land Registry globally, Earth2 employs the utility token Essence (ESS) as its digital currency. This project aims to uncover investment opportunities and provide data-driven insights by analyzing the on-chain activity of ESS.
+**[Earth 2](https://earth2.io/)** is a 1:1 scale virtual representation of the Earth, where users can hold, trade, and own digital assets. As the largest Virtual Land Registry globally, Earth2 employs the utility token Essence (ESS) as its digital currency. This project aims to uncover investment opportunities and provide data-driven insights by analyzing the on-chain activity of ESS.
 
 ## Objectives
 
